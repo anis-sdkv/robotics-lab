@@ -1,8 +1,8 @@
-from thresh_def_layout import thresh_def_layout
+from cross_zero_layout import cross_zero_layout
 
 
 def main():
-    thresh_def_layout()
+    cross_zero_layout()
 
 
 if __name__ == "__main__":
